@@ -1,0 +1,15 @@
+{
+  "name": "deep-affects-test",
+  "version": "1.0.0",
+  "description": "Testing DeepAffects API NodeJS Bindings",
+  "main": "hook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rlnsy",
+  "license": "MIT",
+  "dependencies": {
+    "deep-affects": "^0.1.7",
+    "express": "^4.17.1"
+  }
+}
